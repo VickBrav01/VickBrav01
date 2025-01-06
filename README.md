@@ -12,7 +12,7 @@ I'm a passionate back-end engineer who loves working with Django and creating im
 <div style="display: flex; justify-content: space-between; flex-direction:row; gap: 20px; margin-top: 20px;">
 
   <!-- Languages & Tools Section -->
-  <div style="border: 2px solid #444; border-radius: 10px; padding: 20px; background-color: #0d1117; width: 300px; text-align: center;">
+ <div style="border: 2px solid #444; border-radius: 10px; padding: 20px; background-color: #0d1117; width: 300px; text-align: center;">
     <h3 style="color: #ffffff; margin-bottom: 20px;">Languages & Tools</h3>
     <p>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" /><br>
