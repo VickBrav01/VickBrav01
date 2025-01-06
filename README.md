@@ -10,30 +10,27 @@ I'm a passionate back-end engineer who loves working with Django and creating im
 
 ---
 
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
 
-## 🛠️ Languages, Tools & Streak Stats  
+  <!-- Languages & Tools Section -->
+  <div style="border: 2px solid #444; border-radius: 10px; padding: 20px; background-color: #0d1117; width: 300px; text-align: center;">
+    <h3 style="color: #ffffff; margin-bottom: 20px;">Languages & Tools</h3>
+    <p>
+      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" /><br>
+      <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" alt="Django" /><br>
+      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" /><br>
+      <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL" />
+    </p>
+  </div>
 
-<div align="left">
-
-<table>
-  <tr>
-    <td align="left">
-      <h3>Languages & Tools</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" /><br>
-        <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" alt="Django" /><br>
-        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" /><br>
-        <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL" />
-      </p>
-    </td>
-    <td align="right">
-      <h3>Streak Stats</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=VickBrav01&theme=radical" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+  <!-- Streak Stats Section -->
+  <div style="border: 2px solid #444; border-radius: 10px; padding: 20px; background-color: #0d1117; width: 300px; text-align: center;">
+    <h3 style="color: #ffffff; margin-bottom: 20px;">Streak Stats</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VickBrav01&theme=radical" alt="GitHub Streak" />
+  </div>
 
 </div>
+
 
 ---
 
