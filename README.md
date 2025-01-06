@@ -17,7 +17,7 @@ I'm a passionate Backend Engineer who loves working on Django and creating impac
 
 <table>
   <tr>
-    <td align="center">
+    <td align="left">
       <h3>Languages & Tools</h3>
       <p>
         <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" />
@@ -26,9 +26,9 @@ I'm a passionate Backend Engineer who loves working on Django and creating impac
         <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL" />
       </p>
     </td>
-    <td align="center">
+    <td align="right">
       <h3>Streak Stats</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=VickBrav01&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
