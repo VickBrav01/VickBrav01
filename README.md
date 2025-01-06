@@ -13,7 +13,7 @@ I'm a passionate back-end engineer who loves working with Django and creating im
 
   <!-- Languages & Tools Section -->
   <div style="border: 2px solid #444; border-radius: 10px; padding: 20px; background-color: #0d1117; width: 300px; text-align: center;">
-    <h3 style="color: #ffffff; margin-bottom: 20px;">Languages & Tools</h3>
+    <h3 style="color: #ffffff; margin-bottom: 20px;">🛠️ Languages & Tools</h3>
     <p style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
       <span style="border: 1px solid #444; border-radius: 5px; padding: 5px; background-color: #1e1e2f;">
         <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" />
@@ -27,12 +27,18 @@ I'm a passionate back-end engineer who loves working with Django and creating im
       <span style="border: 1px solid #444; border-radius: 5px; padding: 5px; background-color: #1e1e2f;">
         <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL" />
       </span>
+      <span style="border: 1px solid #444; border-radius: 5px; padding: 5px; background-color: #1e1e2f;">
+        <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" />
+      </span>
+      <span style="border: 1px solid #444; border-radius: 5px; padding: 5px; background-color: #1e1e2f;">
+        <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL" />
+      </span>
     </p>
   </div>
 
   <!-- Streak Stats Section -->
   <div style="border: 2px solid #444; border-radius: 10px; padding: 20px; background-color: #0d1117; width: 300px; text-align: center;">
-    <h3 style="color: #ffffff; margin-bottom: 20px;">Streak Stats</h3>
+    <h3 style="color: #ffffff; margin-bottom: 20px;">🔥 Streak Stats</h3>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VickBrav01&theme=radical" alt="GitHub Streak" />
   </div>
 
