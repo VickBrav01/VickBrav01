@@ -78,7 +78,7 @@ I'm a passionate back-end engineer who loves working with Django and creating im
 - I'm currently exploring Blockchain Development  
 - When I'm not coding, I'm probably traveling or learning new business strategies  
 
----
+
 
 
 
