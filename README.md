@@ -42,17 +42,9 @@ And many more!
 
 ## ⚡ Fun Facts  
 - I'm currently exploring Blockchain Development  
-- When I'm not coding, I'm probably **[Your Non-Tech Hobby, e.g., "cycling or gaming"]**  
+- When I'm not coding, I'm probably traveling or learning new business strategies  
 
 ---
 
-### 🖼️ Add Dynamic Features to Your Profile
-To make the above work, follow these steps:
-1. **GitHub Stats:** Use [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) to showcase stats.
-2. **Visitor Counter:** Use [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter).
-3. **Shields.io:** Use [Shields.io badges](https://shields.io/) for tools and languages.
-4. **GitHub Languages:** Add `Top Languages` with the `github-readme-stats` widget.
-
----
 
 
