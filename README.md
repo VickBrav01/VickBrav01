@@ -41,8 +41,8 @@ I'm a passionate Backend Engineer who loves working on Django and creating impac
 
 <div align="left">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VickBrav01&show_icons=true&theme=radical&hide_title=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VickBrav01&layout=compact&theme=radical)
 
 </div>
 
