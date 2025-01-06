@@ -13,16 +13,25 @@ I'm a passionate Backend Engineer who loves working on Django and creating impac
 
 ## 🛠️ Languages, Tools & Streak Stats  
 
-<div align="center">
-  
-  ### **Languages & Tools**
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-  ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)  
+<div align="left">
 
-  ### **Streak Stats**
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+<table>
+  <tr>
+    <td align="center">
+      <h3>Languages & Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" alt="Django" />
+        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL" />
+      </p>
+    </td>
+    <td align="center">
+      <h3>Streak Stats</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -30,7 +39,7 @@ I'm a passionate Backend Engineer who loves working on Django and creating impac
 
 ## 📈 GitHub Stats  
 
-<div align="center">
+<div align="left">
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
