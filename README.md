@@ -1,6 +1,5 @@
 # Hi there, I'm Victor Githaiga 👋  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=VickBrav01&color=blue)
 
 ## 🚀 About Me  
 I'm a passionate back-end engineer who loves working with Django and creating impactful projects. Here's what I focus on:  
@@ -10,7 +9,7 @@ I'm a passionate back-end engineer who loves working with Django and creating im
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+<div style="display: flex; justify-content: center; flex-direction:row; gap: 20px; margin-top: 20px;">
 
   <!-- Languages & Tools Section -->
   <div style="border: 2px solid #444; border-radius: 10px; padding: 20px; background-color: #0d1117; width: 300px; text-align: center;">
