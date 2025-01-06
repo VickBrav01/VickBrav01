@@ -36,6 +36,8 @@ I'm a passionate back-end engineer who loves working with Django and creating im
     </p>
   </div>
 
+  ---
+
   <!-- Streak Stats Section -->
   <div style="border: 2px solid #444; border-radius: 10px; padding: 20px; background-color: #0d1117; width: 300px; text-align: center;">
     <h3 style="color: #ffffff; margin-bottom: 20px;">🔥 Streak Stats</h3>
