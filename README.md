@@ -3,8 +3,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=VickBrav01&color=blue)
 
 ## 🚀 About Me  
-I'm a passionate Backend Engineer who loves working on Django and creating impactful projects. Here's what I focus on:  
-- **Backend Development** with Django
+I'm a passionate back-end engineer who loves working with Django and creating impactful projects. Here's what I focus on:  
+- **Backend Development** with Django, DRF
 - **Learning:** Blockchain Technologies, Microservices, CI/CD pipelines 
 - **Collaborating:** On open-source projects to grow and contribute  
 
@@ -20,9 +20,9 @@ I'm a passionate Backend Engineer who loves working on Django and creating impac
     <td align="left">
       <h3>Languages & Tools</h3>
       <p>
-        <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" />
-        <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" alt="Django" />
-        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" /><br>
+        <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" alt="Django" /><br>
+        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" /><br>
         <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL" />
       </p>
     </td>
