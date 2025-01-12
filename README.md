@@ -39,12 +39,17 @@ I'm a passionate back-end engineer who loves working with Django and creating im
   ---
 
   <!-- Streak Stats Section -->
-  <div style="border: 2px solid #444; border-radius: 10px; padding: 20px; background-color: #0d1117; width: 300px; text-align: center;">
-    <h3 style="color: #ffffff; margin-bottom: 20px;">🔥 Streak Stats</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VickBrav01&theme=radical" alt="GitHub Streak" />
-  </div>
-
+  
+<div style="border: 2px solid #444; border-radius: 10px; padding: 20px; background-color: #0d1117; width: 300px; text-align: center;">
+  <h3 style="color: #ffffff; margin-bottom: 20px;">🔥 Streak Stats</h3>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=VickBrav01&theme=radical" 
+    alt="GitHub Streak" 
+    style="max-width: 100%; height: auto;" 
+    loading="lazy"
+  />
 </div>
+
 
 
 ---
