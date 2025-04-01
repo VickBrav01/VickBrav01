@@ -1,4 +1,5 @@
-# Hi there, I'm Victor Githaiga 👋  
+# Hi there, I'm Victor  ![KenyaFlagGifGIF (2)](https://github.com/user-attachments/assets/916f0758-e02a-4499-8d44-06d02e344a2d)
+
 
 
 ## 🚀 About Me  
