@@ -2,7 +2,7 @@
 
 
 
-## 🚀 About Me  
+## About Me  
 I'm a passionate back-end engineer who loves working with Django and creating impactful projects. Here's what I focus on:  
 - **Backend Development** with Django, DRF
 - **Learning:** Blockchain Technologies, Microservices, CI/CD pipelines 
