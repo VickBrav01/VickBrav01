@@ -68,8 +68,8 @@ I'm a passionate back-end engineer who loves working with Django and creating im
 
 
 ## 🎯 Currently Working On  
-- Building scalable backend systems with **Django**  
-- Exploring **data pipelines** and **data engineering tools**  
+- Building scalable backend systems with **Django** and **NodeJS**
+  
 
 ---
 
