@@ -60,7 +60,7 @@ I'm a passionate back-end engineer who loves working with Django and creating im
 <div align="left">
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VickBrav01&show_icons=true&theme=radical&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VickBrav01&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/rec-langs/?username=VickBrav01&layout=compact&theme=radical)
 
 </div>
 
