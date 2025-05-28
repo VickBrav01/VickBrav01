@@ -31,15 +31,6 @@
 
   ---
 
-<div align="left">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VickBrav01&layout=compact&theme=radical)
-
-</div>
-
----
-
-
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/victor-gitonga-33a4261ba/)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/Vickbrav01)  
