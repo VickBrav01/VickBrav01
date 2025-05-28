@@ -1,8 +1,6 @@
 # Hi there, I'm Victor 👣
 ## Backend Engineer
 
-
-
 <div style="display: flex; justify-content: start; gap: 20px; margin-top: 20px;">
 
   <!-- Languages & Tools Section -->
@@ -17,6 +15,15 @@
       </span>
       <span style="border: 1px solid #444; border-radius: 5px; padding: 5px; background-color: #1e1e2f;">
         <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
+      </span>
+      <span style="border: 1px solid #444; border-radius: 5px; padding: 5px; background-color: #1e1e2f;">
+        <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript" />
+      </span>
+      <span style="border: 1px solid #444; border-radius: 5px; padding: 5px; background-color: #1e1e2f;">
+        <img src="https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize" alt="Sequelize" />
+      </span>
+      <span style="border: 1px solid #444; border-radius: 5px; padding: 5px; background-color: #1e1e2f;">
+        <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js" />
       </span>
       <span style="border: 1px solid #444; border-radius: 5px; padding: 5px; background-color: #1e1e2f;">
         <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL" />
@@ -35,20 +42,29 @@
 ## 🌐 Connect with Me  
 <div style="display: flex; justify-content: start; gap: 20px; margin-top: 20px;">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/victor-gitonga-33a4261ba/) 
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/Vickbrav01)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://about.me/victorgitonga)
+  <a href="https://www.linkedin.com/in/victor-gitonga-33a4261ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   
-</div>
+  <a href="https://x.com/Vickbrav01" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  
+  <a href="https://about.me/victorgitonga" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=about-dot-me&logoColor=white" alt="Portfolio" />
+  </a>
+  
+  <a href="mailto:victorgitonga@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <a href="https://github.com/victorgitonga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
+</div>
 
 ---
 
 ## ⚡ Fun Facts  
-- I'm currently exploring Blockchain Development  
-- When I'm not coding, I'm probably traveling or learning new business strategies  
-
-
-
-
-
+- I am a founder and tech entrepreneur 
