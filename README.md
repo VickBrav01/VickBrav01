@@ -1,4 +1,5 @@
 # Hi there, I'm Victor 👣
+## Backend Engineer
 
 
 
@@ -32,9 +33,14 @@
   ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/victor-gitonga-33a4261ba/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/Vickbrav01)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://about.me/victorgitonga)
+<div style="display: flex; justify-content: start; gap: 20px; margin-top: 20px;">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/victor-gitonga-33a4261ba/)  
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/Vickbrav01)  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://about.me/victorgitonga) 
+  
+</div>
+
 
 ---
 
