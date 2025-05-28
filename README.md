@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=about-dot-me&logoColor=white" alt="Portfolio" />
   </a>
   
-  <a href="mailto:victorgitonga@example.com" target="_blank">
+  <a href="mailto:vickbrav01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" alt="Email" />
   </a>
   
