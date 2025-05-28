@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  <a href="https://github.com/victorgitonga" target="_blank">
+  <a href="[https://github.com/victorgitonga](https://github.com/VickBrav01)" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white" alt="GitHub" />
   </a>
 
