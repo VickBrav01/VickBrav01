@@ -4,10 +4,8 @@ Backend Engineer | Founder | Tech Entrepreneur
 
 <div style="display: flex; justify-content: start; gap: 20px; margin-top: 20px;">
 
-Languages & Tools Section
-
   <div style="border: 2px solid #444; border-radius: 10px; padding: 20px; background-color: #0d1117; width: 300px; text-align: center;">
-    <h3 style="color: #ffffff; margin-bottom: 20px;"> Languages & Tools</h3>
+    <h4 style="color: #ffffff; margin-bottom: 20px;"> Languages & Tools</h4>
     <p style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
       <span style="border: 1px solid #444; border-radius: 5px; padding: 5px; background-color: #1e1e2f;">
         <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" />
