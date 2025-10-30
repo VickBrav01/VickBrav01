@@ -1,4 +1,5 @@
---- Hi there, I'm Victor 👣 ---
+Hi there, I'm Victor 👣
+---
 Backend Engineer | Founder | Tech Entrepreneur 
 
 <div style="display: flex; justify-content: start; gap: 20px; margin-top: 20px;">
@@ -39,7 +40,7 @@ Backend Engineer | Founder | Tech Entrepreneur
 
   ---
 
-# Connect with Me  
+Connect @
 <div style="display: flex; justify-content: start; gap: 20px; margin-top: 20px;">
   
   <a href="https://www.linkedin.com/in/victor-gitonga-33a4261ba/" target="_blank">
